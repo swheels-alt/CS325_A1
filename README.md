@@ -3,8 +3,8 @@
 ## Features
 this project taught me how to set up Python 3.9 and using conda and git
 
-## Image
-[Project Image](https://placehold.co/400x200.png?text=CS325+Preview)
+## Preview
+[Project Image](https://via.placeholder.com/400x200.png?text=CS325+Preview)
 
 
 ## Installation
